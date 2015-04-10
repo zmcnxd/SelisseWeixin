@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="../css/main.css">
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/main.js"></script>
+<!--<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>-->
+<title>诗轩（SELISSE）肌肤测试</title>
+<meta name="description" content="SÉLISSE诗轩隶属法国SÉLISSE护肤中心，由法国著名的SILIA化妆品公司负责研发与监制。诗轩品牌在全球率先提出裸妆护肤理念（nude make-up skin care），倡导“清新、自然、时尚”的护肤体验，旨在为爱美女性提供更亲肤、更高效、更持久的裸妆护肤产品，充分感受“裸妆护肤、完美出镜”的非凡理念。">
+<meta name="keywords" content="诗轩、SELISSE、诗轩面膜、裸妆护肤、裸妆面膜、诗轩新闻、诗轩公告">
+</head>
+<body>
+<style>
+.mainContainer{background-color: #fff3f5;position: relative;}
+.test-top{background: url(../images/test-top.jpg) no-repeat;background-size: 100%;position: absolute;height: 30%;top: 0;width: 100%;}
+.test-bottom{background: url(../images/test-bottom.jpg) no-repeat bottom;background-size: 100%;position: absolute;height: 30%;bottom: 0;width: 100%;}
+.content{position: absolute;z-index: 2;}
+.content h3{text-align: center;color: #aa1c41;font-size: 4em;margin: 20% 0 2% 0;}
+.content h3+p{text-align: center;color: #aa1c41;font-size: 3em;}
+.content h3+p+div{color: #aa1c41;font-size: 2em;margin: 10% 0;padding: 10px;}
+.question,.result{font-size: 2em;margin: 15% 10%;}
+.result h6{font-size: 2em;margin: 2% 0;}
+.result p{line-height: 180%;}
+.result div{position:absolute;width: 80%;text-align: center;font-size: 1.7em;color: #aa1c41;margin-top: 5%;}
+.result div img{width: 100%;}
+.question .title{margin: 3% 0;}
+.question .answer div{margin: 3% 0;}
+.next{margin: 5% 0;}
+.next a{float: right;margin-right: 15%;color: #aa1c41;font-size: 2em;}
+.question_2,.question_3,.question_4,.question_5,.question_6,.question_7,.question_8,.question_9,.question_10{display: none;}
+input{height: 1em;width: 1em;}
+</style>
+<script type="text/javascript">
+	// wx.config({
+	//     debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+	//     appId: 'wxc1434c835f9b9013', // 必填，公众号的唯一标识
+	//     timestamp: new Date().getTime(), // 必填，生成签名的时间戳
+	//     nonceStr: 'YdlcenrUVdnNO08jpHPPXvg6QLKgafKThe8XzNqp9oP', // 必填，生成签名的随机串
+	//     signature: '',// 必填，签名，见附录1
+	//     jsApiList: [] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+	// });
+</script>
+<div style="height:0;overflow:hidden;">
+	<img src="http://www.selisse.com.cn/Selisse/images/brandIntro.jpg" />
+</div>
+<div class="mainContainer">
+	<div class="test-top"></div>
+	<div class="test-bottom"></div>
+	<div class="content">
+		<h3>SELISSE诗轩肌肤类型测试</h3>
+		<p>（寻找适合您的裸妆护肤产品）</p>
+		<div>保养皮肤要从了解皮肤状况开始，那么你的肌肤又是属于哪一种类型呢？一起来测测吧！</div>
+		<div class="question question_1">
+			<div class="title">1、你的皮肤外观如何？</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、毛孔细致但缺乏光泽</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、比较细腻，但鼻头稍有油光及黑头的出现</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、毛孔粗大、有黑头，泛油光</div>
+			</div>
+		</div>
+		<div class="question question_2">
+			<div class="title">2、 你的皮肤触感如何？</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、全脸触感细腻，柔软</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、两颊触感光滑细腻，鼻头稍油腻</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、全脸触感油腻</div>
+			</div>
+		</div>
+		<div class="question question_3">
+			<div class="title">3、你化彩妆后通常会？</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、皮肤有浮粉现象，妆面不服帖</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、皮肤吸粉较好，T区比较容积脱妆</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、皮肤吸粉速度快，容易脱妆</div>
+			</div>
+		</div>
+		<div class="question question_4">
+			<div class="title">4、你的皮肤容易产生粉刺吗？</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、不，从来没有</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、是的，有时候</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、是的，经常发生</div>
+			</div>
+		</div>
+		<div class="question question_5">
+			<div class="title">5、你洗完脸皮肤通常会</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、很快产生紧绷感</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、稍微有紧绷感</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、不会紧绷感</div>
+			</div>
+		</div>
+		<div class="question question_6">
+			<div class="title">6、你的脸部会出现起皮现象吗？</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、经常出现</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、天气特别干时两颊有时会出现</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、从不</div>
+			</div>
+		</div>
+		<div class="question question_7">
+			<div class="title">7、你的皮肤现状如何？</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、相当紧致，有弹性</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、有一点松弛</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、非常松弛</div>
+			</div>
+		</div>
+		<div class="question question_8">
+			<div class="title">8、你的脸部皱纹情况？</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、基本上没有，眼角稍有幼纹</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、眼角有细纹</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、额头有细纹出现，眼角，嘴角皱纹较明显</div>
+			</div>
+		</div>
+		<div class="question question_9">
+			<div class="title">9、你的面霜通常给你什么感觉？</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、不够滋润，有时还是觉得干燥</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、还好，没什么特别的感觉</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、不太愿意涂，喜欢清爽一些的感觉</div>
+			</div>
+		</div>
+		<div class="question question_10">
+			<div class="title">10、你觉得你的皮肤应该如何改善？</div>
+			<div class="answer">
+				<div><input type="radio" name="ans"/>&nbsp;A 、保湿，因为比较干燥</div>
+				<div><input type="radio" name="ans"/>&nbsp;B 、两颊保湿，T区最好能去去油光、黑头</div>
+				<div><input type="radio" name="ans"/>&nbsp;C 、清爽，因为太油了</div>
+			</div>
+		</div>
+		<div class="next" style="display:none;"><a>下一题</a></div>
+		<div class="result" style="display: none;">
+			<h6></h6>
+			<p></p>
+			<div><img src="/Selisse/weixin/images/share.jpg" alt="" /></div>
+		</div>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		$(".mainContainer").height($(document).height());
+		$(".mainContainer").width($(document).width());
+		$(".content").height($(document).height());
+		$(".content").width($(document).width());
+
+		score = 0;
+		var cursor = 1;
+		var total = 10;
+		$("input[type='radio']").click(function(){
+			if($(this)[0].checked){
+				$(".next").show();
+				if(cursor==total){
+					$(".next a").html("查看结果");
+				}
+			}
+		});
+		$(".next").click(function(){
+			if($(".next a").html()=="查看结果"){
+				$(".content h3").html("测试结果");
+				$(".content h3+p,.content h3+p+div,.next,.question").hide();
+				$(".result").show();
+				if(score>=10&&score<15){
+					$(".result h6").html("10-15：干性皮肤");
+					$(".result p").html("建议：干性皮肤的mm应选用养分多，滋润型的乳液化妆品，以使肌肤湿润、健康、有活力。定期做面部按摩，提高肌肤温度，改善血液循环，增进肌肤的生理活动，使肌肤光润亮泽。注意饮食营养的平衡（脂肪可稍多一些）。冬季室内受暖气影响，肌肤会变得更加促造，因此室内宜使用加湿器。")
+				}
+				else if(score>=15&&score<35){
+					$(".result h6").html("15-35分：混合型皮肤");
+					$(".result p").html("建议：混合性皮肤的mm可以用比较滋润的保养品，注意两颊的保湿，但T区要做好清洁工作，最好跟两颊分开护理，用些比较清爽的产品，控制多余油份的产生。一些去油光和去黑头的特效产品只用在T区部位，多吃水果。千万不要嫌护肤程序麻烦哦！")
+				}else{
+					$(".result h6").html("30-50分：油性皮肤");
+					$(".result p").html("建议：油性皮肤的mm应使用洁净力强的洗面产品，去掉附着毛孔中的污物。用调节皮脂分泌的化妆品护理肌肤，并用清爽的乳液柔和皮肤。不偏食油腻食物，多吃蔬菜、水果和含维生素B的食物。保持心情轻松愉快，多参加体育活动，睡眠要充足。")
+				}
+			}else{
+				$(".question_"+cursor+" input").each(function(){
+					if($(this)[0].checked){
+						if($(this).parent().index()==0){
+							score+=1;
+						}
+						else if($(this).parent().index()==1){
+							score+=3;
+						}
+						else{
+							score+=5;
+						}
+					}
+				});
+				$(".question_"+cursor).hide().next().show();
+				$(this).hide();
+				cursor++;
+			}
+		});
+	});
+</script>
+</div>
+</body>
+</html>

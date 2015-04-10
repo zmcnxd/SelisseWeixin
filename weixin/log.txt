@@ -1,0 +1,2099 @@
+﻿2015-03-18 16:48:53   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668494</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>user_bind</EventKey>
+</xml>
+2015-03-18 16:49:03   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668504</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127494567116713839</MsgId>
+</xml>
+2015-03-18 16:49:03   用户输入文字：BDzmcnxd
+2015-03-18 16:49:58   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668559</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127494803339915157</MsgId>
+</xml>
+2015-03-18 16:49:58   用户输入文字：BDzmcnxd
+2015-03-18 16:50:33   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668593</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127494949368803238</MsgId>
+</xml>
+2015-03-18 16:50:33   用户输入文字：BDzmcnxd
+2015-03-18 16:50:49   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668609</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127495018088279981</MsgId>
+</xml>
+2015-03-18 16:50:49   用户输入文字：BDzmcnxd
+2015-03-18 16:51:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668630</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127495108282593206</MsgId>
+</xml>
+2015-03-18 16:51:09   用户输入文字：BDzmcnxd
+2015-03-18 16:51:30   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668650</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127495194181939140</MsgId>
+</xml>
+2015-03-18 16:51:30   用户输入文字：BDzmcnxd
+2015-03-18 16:52:02   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668683</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127495335915859922</MsgId>
+</xml>
+2015-03-18 16:52:02   用户输入文字：BDzmcnxd
+2015-03-18 16:52:21   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668702</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127495417520238552</MsgId>
+</xml>
+2015-03-18 16:52:21   用户输入文字：BDzmcnxd
+2015-03-18 16:52:38   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668719</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127495490534682594</MsgId>
+</xml>
+2015-03-18 16:52:38   用户输入文字：BDzmcnxd
+2015-03-18 16:53:38   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668779</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127495748232720381</MsgId>
+</xml>
+2015-03-18 16:53:38   用户输入文字：BDzmcnxd
+2015-03-18 16:54:34   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426668835</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127495988750888982</MsgId>
+</xml>
+2015-03-18 16:54:34   用户输入文字：BDzmcnxd
+2015-03-18 17:01:05   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426669224</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127497659493167338</MsgId>
+</xml>
+2015-03-18 17:01:05   用户输入文字：BDzmcnxd
+2015-03-18 17:07:54   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426669634</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127499420429758893</MsgId>
+</xml>
+2015-03-18 17:07:54   用户输入文字：BDzmcnxd
+2015-03-18 17:08:13   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426669654</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127499506329104823</MsgId>
+</xml>
+2015-03-18 17:08:13   用户输入文字：BDzmcnxd
+2015-03-18 17:09:22   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426669723</CreateTime>
+<MsgType>text</MsgType>
+<Content>BDzmcnxd</Content>
+<MsgId>6127499802681848284</MsgId>
+</xml>
+2015-03-18 17:09:22   用户输入文字：BDzmcnxd
+2015-03-18 17:09:32   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426669733</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-03-18 17:35:43   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyih1v6ZCFHhlWhpmitLBeM</FromUserName>
+<CreateTime>1426671304</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-18 18:00:26   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6ch8rCZ-uc21Dygj1kqVHM</FromUserName>
+<CreateTime>1426672787</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-19 07:33:36   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426721580</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-19 07:38:59   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426721902</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-19 07:39:37   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426721941</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-19 07:42:53   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426722137</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-03-19 07:43:04   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426722148</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-03-19 07:43:35   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426722179</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>product_test</EventKey>
+</xml>
+2015-03-19 07:43:35   提交参数：
+2015-03-19 07:43:43   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426722186</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>product_test</EventKey>
+</xml>
+2015-03-19 07:43:45   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426722188</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/classIndex.html</EventKey>
+</xml>
+2015-03-19 07:44:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426722233</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-03-19 07:44:55   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426722259</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-19 07:46:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426722333</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-19 11:49:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4pQkrZUL7hX4uHftCZlSm0</FromUserName>
+<CreateTime>1426736934</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-03-19 11:49:37   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4pQkrZUL7hX4uHftCZlSm0</FromUserName>
+<CreateTime>1426736941</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-03-19 11:49:55   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4pQkrZUL7hX4uHftCZlSm0</FromUserName>
+<CreateTime>1426736960</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-03-19 11:50:06   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4pQkrZUL7hX4uHftCZlSm0</FromUserName>
+<CreateTime>1426736970</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-19 11:50:13   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4pQkrZUL7hX4uHftCZlSm0</FromUserName>
+<CreateTime>1426736977</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-19 14:00:00   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426744765</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>user_bind</EventKey>
+</xml>
+2015-03-19 14:00:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1426744785</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-03-19 23:47:18   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset0agQQxazz9TTnAdsqvDf9c</FromUserName>
+<CreateTime>1426780005</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-19 23:47:40   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset0agQQxazz9TTnAdsqvDf9c</FromUserName>
+<CreateTime>1426780027</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-03-19 23:48:39   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset0agQQxazz9TTnAdsqvDf9c</FromUserName>
+<CreateTime>1426780085</CreateTime>
+<MsgType>text</MsgType>
+<Content>è¿ä¸ªé¢èå¤å°é±ï¼</Content>
+<MsgId>6127973803862601290</MsgId>
+</xml>
+2015-03-19 23:48:39   用户输入文字：这个面膜多少钱？
+2015-03-20 12:55:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetysVKNEzmUk5S3plaXmTZkE</FromUserName>
+<CreateTime>1426827298</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-20 12:55:52   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetysVKNEzmUk5S3plaXmTZkE</FromUserName>
+<CreateTime>1426827321</CreateTime>
+<MsgType>text</MsgType>
+<Content>é²ä¼ªæ¥è¯¢</Content>
+<MsgId>6128176680937804659</MsgId>
+</xml>
+2015-03-20 12:55:52   用户输入文字：防伪查询
+2015-03-20 19:07:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426849600</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-20 19:08:27   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426849677</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-20 19:08:52   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426849703</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-20 19:09:55   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426849765</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-20 20:03:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset9CyIR58lmS9upUz5xCuhwU</FromUserName>
+<CreateTime>1426852970</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-20 20:17:04   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4QtrKWcLWmC7pWoRLC5wJk</FromUserName>
+<CreateTime>1426853795</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-20 22:32:19   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset94Z6o82mJi_Bn6QCkRRnFE</FromUserName>
+<CreateTime>1426861910</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-20 22:32:41   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset94Z6o82mJi_Bn6QCkRRnFE</FromUserName>
+<CreateTime>1426861932</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-03-20 22:34:19   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset94Z6o82mJi_Bn6QCkRRnFE</FromUserName>
+<CreateTime>1426862030</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-20 22:34:46   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset94Z6o82mJi_Bn6QCkRRnFE</FromUserName>
+<CreateTime>1426862057</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-20 23:37:45   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset70CtfK0OqIoiUzFVTj2Maw</FromUserName>
+<CreateTime>1426865836</CreateTime>
+<MsgType>text</MsgType>
+<Content> ä½ å¥½ï¼å¾®ä¿¡èªåªä½æ¨å¹¿å¹³å°ï¼ä¹æ¨å¾®ï¼éè¯·ä½ çå å¥ï¼ä½¿ä½ è·å¾æ´å¤§æ¶çåå½±ååï¼è¯·çæ³ http://tui.younle.com/home/Index/index/toadminid/86</Content>
+<MsgId>6128342101603226719</MsgId>
+</xml>
+2015-03-20 23:37:45   用户输入文字：你好，微信自媒体推广平台（乐推微）邀请你的加入！使你获得更大收益和影响力，请猛戳 http://tui.younle.com/home/Index/index/toadminid/86
+2015-03-21 11:17:28   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5blBJmRCE0VaBI9JgtZ0ZE</FromUserName>
+<CreateTime>1426907822</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-21 11:17:45   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5blBJmRCE0VaBI9JgtZ0ZE</FromUserName>
+<CreateTime>1426907839</CreateTime>
+<MsgType>text</MsgType>
+<Content>ä½ å¥½ï¼ææ³åä½ å®¶ä»£ç</Content>
+<MsgId>6128522503114566473</MsgId>
+</xml>
+2015-03-21 11:17:45   用户输入文字：你好，我想做你家代理
+2015-03-21 20:47:32   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1426942028</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-22 01:10:47   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7fRS0lkwqQtBU_6vhGkpdI</FromUserName>
+<CreateTime>1426957823</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-03-22 11:50:28   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6XClRN1nMecOA8ORZCqR-8</FromUserName>
+<CreateTime>1426996146</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-22 11:50:34   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6XClRN1nMecOA8ORZCqR-8</FromUserName>
+<CreateTime>1426996151</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-22 11:50:44   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6XClRN1nMecOA8ORZCqR-8</FromUserName>
+<CreateTime>1426996161</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-03-22 11:50:44   提交参数：
+2015-03-22 11:50:44   提交参数：
+2015-03-22 11:51:06   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6XClRN1nMecOA8ORZCqR-8</FromUserName>
+<CreateTime>1426996184</CreateTime>
+<MsgType>text</MsgType>
+<Content>æ¨å¥½ï¼è¯·é®è¯è½©æä»£çåï¼</Content>
+<MsgId>6128901942000350986</MsgId>
+</xml>
+2015-03-22 11:51:06   用户输入文字：您好，请问诗轩招代理吗？
+2015-03-22 11:51:22   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6XClRN1nMecOA8ORZCqR-8</FromUserName>
+<CreateTime>1426996200</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-22 11:52:46   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6XClRN1nMecOA8ORZCqR-8</FromUserName>
+<CreateTime>1426996284</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-22 12:02:06   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6XClRN1nMecOA8ORZCqR-8</FromUserName>
+<CreateTime>1426996844</CreateTime>
+<MsgType>text</MsgType>
+<Content>æ¨å¥½ï¼è¯·é®è¯è½©æä»£çåï¼</Content>
+<MsgId>6128904776678766541</MsgId>
+</xml>
+2015-03-22 12:02:06   用户输入文字：您好，请问诗轩招代理吗？
+2015-03-23 09:03:58   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427072560</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-23 09:05:40   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427072662</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-23 09:07:23   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427072765</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-23 09:14:10   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427073171</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-23 09:14:34   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427073196</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-03-23 09:14:53   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427073215</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>product_test</EventKey>
+</xml>
+2015-03-23 10:20:49   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset_5ZVLE4LgdL7F05S1QW0Tw</FromUserName>
+<CreateTime>1427077171</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-23 12:47:43   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxcofyoOsVXvc0KF1kMtlGM</FromUserName>
+<CreateTime>1427085986</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-23 21:04:56   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset_5ZVLE4LgdL7F05S1QW0Tw</FromUserName>
+<CreateTime>1427115817</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-24 16:05:36   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4pQkrZUL7hX4uHftCZlSm0</FromUserName>
+<CreateTime>1427184263</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-24 16:05:37   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1427184265</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-24 16:07:25   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1427184372</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-24 16:07:25   提交参数：
+2015-03-24 16:07:31   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1427184379</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-24 16:07:56   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1427184403</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-24 16:08:01   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1427184408</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-24 16:08:44   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4vvIlCJKP8yFm0JTY2wTB0</FromUserName>
+<CreateTime>1427184452</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-24 20:18:50   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427199458</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-24 20:19:26   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427199494</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-25 08:52:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5rHzSZQ36O-_SaqfSDtciw</FromUserName>
+<CreateTime>1427244756</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-25 08:53:31   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5rHzSZQ36O-_SaqfSDtciw</FromUserName>
+<CreateTime>1427244818</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-03-25 08:53:53   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5rHzSZQ36O-_SaqfSDtciw</FromUserName>
+<CreateTime>1427244840</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-25 08:55:17   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5rHzSZQ36O-_SaqfSDtciw</FromUserName>
+<CreateTime>1427244924</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-03-25 08:55:17   提交参数：
+2015-03-25 14:10:05   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427263813</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-25 14:12:35   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427263964</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-25 16:50:31   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7fRS0lkwqQtBU_6vhGkpdI</FromUserName>
+<CreateTime>1427273440</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-03-25 16:50:39   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7fRS0lkwqQtBU_6vhGkpdI</FromUserName>
+<CreateTime>1427273448</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-25 17:09:34   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset_5ZVLE4LgdL7F05S1QW0Tw</FromUserName>
+<CreateTime>1427274582</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-25 17:09:34   提交参数：
+2015-03-25 19:21:58   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetwZaNUrZSkELSaffXxcRj28</FromUserName>
+<CreateTime>1427282527</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-25 20:32:04   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-WNbSKxdoxnGig5aGaBufc</FromUserName>
+<CreateTime>1427286733</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-26 01:02:12   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxILQmnvSDrknGFKBxy8Xqk</FromUserName>
+<CreateTime>1427302942</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-26 01:04:58   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxILQmnvSDrknGFKBxy8Xqk</FromUserName>
+<CreateTime>1427303108</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-03-26 01:07:17   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxILQmnvSDrknGFKBxy8Xqk</FromUserName>
+<CreateTime>1427303248</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/pifuTest.html</EventKey>
+</xml>
+2015-03-26 01:09:58   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxILQmnvSDrknGFKBxy8Xqk</FromUserName>
+<CreateTime>1427303409</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>product_test</EventKey>
+</xml>
+2015-03-26 01:10:05   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxILQmnvSDrknGFKBxy8Xqk</FromUserName>
+<CreateTime>1427303415</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/classIndex.html</EventKey>
+</xml>
+2015-03-26 01:10:19   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxILQmnvSDrknGFKBxy8Xqk</FromUserName>
+<CreateTime>1427303429</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-26 01:12:02   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxILQmnvSDrknGFKBxy8Xqk</FromUserName>
+<CreateTime>1427303532</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-26 01:12:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxILQmnvSDrknGFKBxy8Xqk</FromUserName>
+<CreateTime>1427303540</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-26 09:20:30   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusety9g2vYxKez5SKNSI4xfZok</FromUserName>
+<CreateTime>1427332842</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-26 11:28:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxWPRSHne70diQ65cK2YocY</FromUserName>
+<CreateTime>1427340521</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-26 15:23:33   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset_EtU5dis7kZr_VcYt7BOV0</FromUserName>
+<CreateTime>1427354626</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-26 17:53:13   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyr7EbVG6jzAVYX4JLTh7JA</FromUserName>
+<CreateTime>1427363607</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-26 17:53:47   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyr7EbVG6jzAVYX4JLTh7JA</FromUserName>
+<CreateTime>1427363641</CreateTime>
+<MsgType>text</MsgType>
+<Content>é²ä¼ªæ¥è¯¢</Content>
+<MsgId>6130480157798131242</MsgId>
+</xml>
+2015-03-26 17:53:47   用户输入文字：防伪查询
+2015-03-26 17:54:14   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyr7EbVG6jzAVYX4JLTh7JA</FromUserName>
+<CreateTime>1427363667</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>user_bind</EventKey>
+</xml>
+2015-03-26 17:54:14   提交参数：
+2015-03-26 17:54:52   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyr7EbVG6jzAVYX4JLTh7JA</FromUserName>
+<CreateTime>1427363706</CreateTime>
+<MsgType>text</MsgType>
+<Content>yy--mm1414441617</Content>
+<MsgId>6130480436971005527</MsgId>
+</xml>
+2015-03-26 17:54:52   用户输入文字：yy--mm1414441617
+2015-03-26 23:00:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427382034</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-26 23:25:19   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset9AwSk8ZcrbqzMSbHoXKPFg</FromUserName>
+<CreateTime>1427383533</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-26 23:25:43   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset9AwSk8ZcrbqzMSbHoXKPFg</FromUserName>
+<CreateTime>1427383557</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-27 09:35:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427420125</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-27 10:12:24   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427422360</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-27 10:12:48   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427422384</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/classIndex.html</EventKey>
+</xml>
+2015-03-27 10:13:14   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427422411</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-03-27 10:13:25   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427422421</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-03-27 10:13:25   提交参数：
+2015-03-27 10:13:33   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427422429</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/pifuTest.html</EventKey>
+</xml>
+2015-03-27 10:39:27   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetzKIZXDFU1g7MWmniB93ZeY</FromUserName>
+<CreateTime>1427423983</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-27 11:04:47   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427425504</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-27 11:04:57   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427425514</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-03-27 11:13:16   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427426013</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-03-27 11:13:28   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427426024</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/classIndex.html</EventKey>
+</xml>
+2015-03-27 11:13:41   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427426037</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-03-27 11:13:58   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427426055</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-03-27 11:14:26   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427426083</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>product_test</EventKey>
+</xml>
+2015-03-27 11:14:31   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-pM1GZ3ECnL027MtJZGcyg</FromUserName>
+<CreateTime>1427426088</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-03-28 11:41:00   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset3XhAw5VvZlWduotM2DX3B0</FromUserName>
+<CreateTime>1427514081</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-29 13:14:37   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6dnOxSKg8s2jzNsZMwDFHI</FromUserName>
+<CreateTime>1427606103</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-29 13:16:08   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-eaXW8g52MRly7KH4LO0DA</FromUserName>
+<CreateTime>1427606194</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-29 13:16:55   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-eaXW8g52MRly7KH4LO0DA</FromUserName>
+<CreateTime>1427606241</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>product_test</EventKey>
+</xml>
+2015-03-29 13:19:35   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6dnOxSKg8s2jzNsZMwDFHI</FromUserName>
+<CreateTime>1427606401</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-29 15:06:33   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetwrB_Szd4bQy4vyHjxg4cIw</FromUserName>
+<CreateTime>1427612819</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-29 17:28:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7TVOI1BIKBACNLHLyeMDKE</FromUserName>
+<CreateTime>1427621326</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-03-29 23:15:57   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset1RtoV-PTAFWOo25yVfrxZE</FromUserName>
+<CreateTime>1427642184</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-03-29 23:16:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset1RtoV-PTAFWOo25yVfrxZE</FromUserName>
+<CreateTime>1427642208</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-29 23:16:34   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset1RtoV-PTAFWOo25yVfrxZE</FromUserName>
+<CreateTime>1427642221</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-03-29 23:16:38   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset1RtoV-PTAFWOo25yVfrxZE</FromUserName>
+<CreateTime>1427642226</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-29 23:16:44   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset1RtoV-PTAFWOo25yVfrxZE</FromUserName>
+<CreateTime>1427642232</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-03-30 13:24:42   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetzoTxlcoYIv9MtNLePl44Iw</FromUserName>
+<CreateTime>1427693112</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-30 14:46:43   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427698034</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-30 16:42:07   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6dnOxSKg8s2jzNsZMwDFHI</FromUserName>
+<CreateTime>1427704958</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-03-30 17:40:45   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset64-0mjlgpNYl2F1m_djhAc</FromUserName>
+<CreateTime>1427708477</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-31 10:55:47   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetwKYi3mW0WyWyABe3SVvNZU</FromUserName>
+<CreateTime>1427770581</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-31 13:43:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2HdNUSR9AI3IIVlgK2D5UY</FromUserName>
+<CreateTime>1427780635</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-03-31 13:45:02   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2HdNUSR9AI3IIVlgK2D5UY</FromUserName>
+<CreateTime>1427780737</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-03-31 19:47:36   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetw-6tIMVEoianVGbDqZv2jw</FromUserName>
+<CreateTime>1427802492</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-03-31 19:47:47   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetw-6tIMVEoianVGbDqZv2jw</FromUserName>
+<CreateTime>1427802503</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-01 10:53:35   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetx13sb14XADWn1fLbWHSKUY</FromUserName>
+<CreateTime>1427856854</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 10:53:43   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetx13sb14XADWn1fLbWHSKUY</FromUserName>
+<CreateTime>1427856862</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>user_bind</EventKey>
+</xml>
+2015-04-01 10:53:48   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetx13sb14XADWn1fLbWHSKUY</FromUserName>
+<CreateTime>1427856867</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-04-01 10:53:52   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetx13sb14XADWn1fLbWHSKUY</FromUserName>
+<CreateTime>1427856871</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-04-01 10:54:02   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetx13sb14XADWn1fLbWHSKUY</FromUserName>
+<CreateTime>1427856881</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-01 10:54:26   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetx13sb14XADWn1fLbWHSKUY</FromUserName>
+<CreateTime>1427856905</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-04-01 10:54:31   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetx13sb14XADWn1fLbWHSKUY</FromUserName>
+<CreateTime>1427856910</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-04-01 10:55:27   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetx13sb14XADWn1fLbWHSKUY</FromUserName>
+<CreateTime>1427856966</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-04-01 12:04:12   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxU8y5C-rQjapi_9hV7HAPE</FromUserName>
+<CreateTime>1427861091</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 12:04:18   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxU8y5C-rQjapi_9hV7HAPE</FromUserName>
+<CreateTime>1427861097</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-04-01 12:04:28   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxU8y5C-rQjapi_9hV7HAPE</FromUserName>
+<CreateTime>1427861107</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-04-01 12:04:33   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxU8y5C-rQjapi_9hV7HAPE</FromUserName>
+<CreateTime>1427861112</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/pifuTest.html</EventKey>
+</xml>
+2015-04-01 12:04:42   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxU8y5C-rQjapi_9hV7HAPE</FromUserName>
+<CreateTime>1427861121</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-01 12:04:48   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxU8y5C-rQjapi_9hV7HAPE</FromUserName>
+<CreateTime>1427861127</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-04-01 12:04:56   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxU8y5C-rQjapi_9hV7HAPE</FromUserName>
+<CreateTime>1427861136</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-01 12:05:02   提交参数：
+2015-04-01 12:17:36   提交参数：
+2015-04-01 13:00:22   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset9AwSk8ZcrbqzMSbHoXKPFg</FromUserName>
+<CreateTime>1427864461</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-01 14:34:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyiK7X5ZYnEXCQjLAuGUa4w</FromUserName>
+<CreateTime>1427870109</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 14:34:39   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyiK7X5ZYnEXCQjLAuGUa4w</FromUserName>
+<CreateTime>1427870118</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-01 14:34:51   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyiK7X5ZYnEXCQjLAuGUa4w</FromUserName>
+<CreateTime>1427870131</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-01 14:37:49   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyiK7X5ZYnEXCQjLAuGUa4w</FromUserName>
+<CreateTime>1427870309</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>product_test</EventKey>
+</xml>
+2015-04-01 14:37:57   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyiK7X5ZYnEXCQjLAuGUa4w</FromUserName>
+<CreateTime>1427870317</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-04-01 14:51:45   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5Sit-IiSAPeXQClzki6r_4</FromUserName>
+<CreateTime>1427871145</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 14:53:24   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5Sit-IiSAPeXQClzki6r_4</FromUserName>
+<CreateTime>1427871244</CreateTime>
+<MsgType>text</MsgType>
+<Content>â¦â¦â¦â¦</Content>
+<MsgId>6132660296082612879</MsgId>
+</xml>
+2015-04-01 14:53:24   用户输入文字：…………
+2015-04-01 14:54:34   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5Sit-IiSAPeXQClzki6r_4</FromUserName>
+<CreateTime>1427871313</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-01 14:54:46   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5Sit-IiSAPeXQClzki6r_4</FromUserName>
+<CreateTime>1427871325</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>product_test</EventKey>
+</xml>
+2015-04-01 15:29:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-MQf4AiUpJ3dP-CB8nzTJk</FromUserName>
+<CreateTime>1427873408</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 17:11:00   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2q3MwSQaflP9EiFLJxqZsc</FromUserName>
+<CreateTime>1427879500</CreateTime>
+<MsgType>event</MsgType>
+<Event>MASSSENDJOBFINISH</Event>
+<MsgID>203779976</MsgID>
+<Status>send success</Status>
+<TotalCount>668</TotalCount>
+<FilterCount>668</FilterCount>
+<SentCount>668</SentCount>
+<ErrorCount>0</ErrorCount>
+</xml>
+2015-04-01 17:12:35   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-sxSowJ2K-q-Q1acRJNHLI</FromUserName>
+<CreateTime>1427879595</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 17:15:03   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6cbtCP5T7fXZljVoP9wVCI</FromUserName>
+<CreateTime>1427879743</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 17:15:16   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset5PPA-heqY1V70bXexgbWbs</FromUserName>
+<CreateTime>1427879756</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 17:15:44   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset0QNSojps1ruodl7ZUdLHiI</FromUserName>
+<CreateTime>1427879784</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 17:27:41   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetw7MEVIG0ng6fZrkK9iQD5Y</FromUserName>
+<CreateTime>1427880501</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-04-01 17:28:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetw7MEVIG0ng6fZrkK9iQD5Y</FromUserName>
+<CreateTime>1427880529</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-04-01 17:28:09   提交参数：
+2015-04-01 17:28:14   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetw7MEVIG0ng6fZrkK9iQD5Y</FromUserName>
+<CreateTime>1427880534</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-04-01 17:55:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-WNbSKxdoxnGig5aGaBufc</FromUserName>
+<CreateTime>1427882160</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-04-01 19:07:05   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2OoG8vmCj5vwqU0YtaHEnA</FromUserName>
+<CreateTime>1427886465</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-04-01 19:11:37   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyjRV9HiJsEGbZEC_Bqc1Z8</FromUserName>
+<CreateTime>1427886737</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-01 20:35:16   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427891756</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-01 20:41:39   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1427892140</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-01 21:04:13   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset3QqgWsNfZjARZKmyGJjQj4</FromUserName>
+<CreateTime>1427893494</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>user_bind</EventKey>
+</xml>
+2015-04-01 21:04:30   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset3QqgWsNfZjARZKmyGJjQj4</FromUserName>
+<CreateTime>1427893510</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/classIndex.html</EventKey>
+</xml>
+2015-04-01 21:04:44   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset3QqgWsNfZjARZKmyGJjQj4</FromUserName>
+<CreateTime>1427893525</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-04-01 21:04:57   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset3QqgWsNfZjARZKmyGJjQj4</FromUserName>
+<CreateTime>1427893537</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-01 21:26:03   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset-sLS2ll4jIWFUTSD718xTY</FromUserName>
+<CreateTime>1427894803</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 21:30:25   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6HGe8LjPwIrdH0V7K6zEKo</FromUserName>
+<CreateTime>1427895066</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 21:44:26   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetwJkVkZ5jeUrl1FTKPKmFCM</FromUserName>
+<CreateTime>1427895907</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-01 22:34:33   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset49zigcypH8HHelpp5OyQak</FromUserName>
+<CreateTime>1427898914</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-04-01 22:34:38   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset49zigcypH8HHelpp5OyQak</FromUserName>
+<CreateTime>1427898919</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-04-01 22:34:52   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset49zigcypH8HHelpp5OyQak</FromUserName>
+<CreateTime>1427898933</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>product_test</EventKey>
+</xml>
+2015-04-01 22:35:01   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset49zigcypH8HHelpp5OyQak</FromUserName>
+<CreateTime>1427898942</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-04-01 23:26:27   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxcofyoOsVXvc0KF1kMtlGM</FromUserName>
+<CreateTime>1427902028</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-04-01 23:27:54   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxcofyoOsVXvc0KF1kMtlGM</FromUserName>
+<CreateTime>1427902115</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-04-01 23:28:02   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxcofyoOsVXvc0KF1kMtlGM</FromUserName>
+<CreateTime>1427902123</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-04-01 23:28:11   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetxcofyoOsVXvc0KF1kMtlGM</FromUserName>
+<CreateTime>1427902132</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/pifuTest.html</EventKey>
+</xml>
+2015-04-02 08:46:24   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427935627</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 08:46:24   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427935627</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 10:14:05   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4pQkrZUL7hX4uHftCZlSm0</FromUserName>
+<CreateTime>1427940888</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-02 10:17:00   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetzM42VyAvnt3eko-b3E2664</FromUserName>
+<CreateTime>1427941063</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-02 10:56:50   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427943453</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 11:26:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427945224</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 11:32:57   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427945620</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 11:52:31   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4DFk-cTtRBFIUL_0gS4mHo</FromUserName>
+<CreateTime>1427946794</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-04-02 11:52:37   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4DFk-cTtRBFIUL_0gS4mHo</FromUserName>
+<CreateTime>1427946800</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-04-02 13:00:51   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427950895</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-04-02 13:00:55   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427950898</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 13:01:55   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427950959</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 13:02:58   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427951022</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-04-02 13:03:37   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427951061</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-04-02 13:03:59   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427951083</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 13:39:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset_5ZVLE4LgdL7F05S1QW0Tw</FromUserName>
+<CreateTime>1427953213</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-02 15:05:00   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427958345</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 15:05:49   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427958393</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 15:07:22   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1427958487</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 17:41:38   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset88G6HZX0viVJrkPIDepQGo</FromUserName>
+<CreateTime>1427967743</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 17:42:01   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset88G6HZX0viVJrkPIDepQGo</FromUserName>
+<CreateTime>1427967766</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-04-02 17:43:00   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset0COG_9OkR9ZsuxmMxKHZxI</FromUserName>
+<CreateTime>1427967825</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-02 17:43:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset0COG_9OkR9ZsuxmMxKHZxI</FromUserName>
+<CreateTime>1427967834</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-04-02 17:43:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset0COG_9OkR9ZsuxmMxKHZxI</FromUserName>
+<CreateTime>1427967845</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_balance</EventKey>
+</xml>
+2015-04-02 17:43:21   提交参数：
+2015-04-02 20:02:30   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8tTqp7fj5S5qjD_cROTqag</FromUserName>
+<CreateTime>1427976195</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-02 20:02:49   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8tTqp7fj5S5qjD_cROTqag</FromUserName>
+<CreateTime>1427976214</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-04-02 20:03:11   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8tTqp7fj5S5qjD_cROTqag</FromUserName>
+<CreateTime>1427976236</CreateTime>
+<MsgType>text</MsgType>
+<Content>ææ ·ä»£çäº§å</Content>
+<MsgId>6133111233288983764</MsgId>
+</xml>
+2015-04-02 20:03:11   用户输入文字：怎样代理产品
+2015-04-02 20:10:41   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset1dU-eH9e9H8cYwfH5wFKLk</FromUserName>
+<CreateTime>1427976686</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-02 20:12:35   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8tTqp7fj5S5qjD_cROTqag</FromUserName>
+<CreateTime>1427976800</CreateTime>
+<MsgType>text</MsgType>
+<Content>å¦ä½ä»£çäº§å</Content>
+<MsgId>6133113655650538887</MsgId>
+</xml>
+2015-04-02 20:12:35   用户输入文字：如何代理产品
+2015-04-02 20:12:42   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8tTqp7fj5S5qjD_cROTqag</FromUserName>
+<CreateTime>1427976808</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-02 20:14:55   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8tTqp7fj5S5qjD_cROTqag</FromUserName>
+<CreateTime>1427976940</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>user_bind</EventKey>
+</xml>
+2015-04-02 20:15:00   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8tTqp7fj5S5qjD_cROTqag</FromUserName>
+<CreateTime>1427976945</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-04-02 20:32:14   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8tTqp7fj5S5qjD_cROTqag</FromUserName>
+<CreateTime>1427977979</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-02 20:32:33   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8tTqp7fj5S5qjD_cROTqag</FromUserName>
+<CreateTime>1427977998</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-03 08:39:56   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset9AwSk8ZcrbqzMSbHoXKPFg</FromUserName>
+<CreateTime>1428021643</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-03 08:40:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset9AwSk8ZcrbqzMSbHoXKPFg</FromUserName>
+<CreateTime>1428021676</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-03 08:43:37   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset9AwSk8ZcrbqzMSbHoXKPFg</FromUserName>
+<CreateTime>1428021865</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-03 08:45:05   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset9AwSk8ZcrbqzMSbHoXKPFg</FromUserName>
+<CreateTime>1428021952</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-03 08:47:10   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset9AwSk8ZcrbqzMSbHoXKPFg</FromUserName>
+<CreateTime>1428022078</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-03 10:43:21   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetzNHzaEQT5V8wuAeOdq1H-0</FromUserName>
+<CreateTime>1428029049</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-03 10:43:26   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetzNHzaEQT5V8wuAeOdq1H-0</FromUserName>
+<CreateTime>1428029053</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/classIndex.html</EventKey>
+</xml>
+2015-04-03 12:37:31   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset075hBBCaDmmXePXStIf8v8</FromUserName>
+<CreateTime>1428035899</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-03 13:12:37   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6Dl19i_gw5XTkLPjCKHdsE</FromUserName>
+<CreateTime>1428038005</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-03 22:20:46   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1428070896</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-04 07:26:46   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetz9NRThdq9XookbsQovGRmw</FromUserName>
+<CreateTime>1428103658</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-04 11:29:55   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6MhLt-5mRryyH31WrSDync</FromUserName>
+<CreateTime>1428118247</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-04 23:19:42   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1428160776</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-04 23:20:30   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1428160825</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-04-04 23:20:40   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1428160834</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-04-04 23:21:53   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1428160907</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/classIndex.html</EventKey>
+</xml>
+2015-04-04 23:22:06   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset7m6cXVZiNMBumO6K9jgC5I</FromUserName>
+<CreateTime>1428160920</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/pifuTest.html</EventKey>
+</xml>
+2015-04-05 22:23:49   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1428243828</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-05 22:27:20   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1428244039</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-06 16:49:46   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8DbA8ycjnnfuYM6EeMuyAA</FromUserName>
+<CreateTime>1428310188</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-06 18:34:22   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset8cwZp9eK-znNSPgRfj4t6k</FromUserName>
+<CreateTime>1428316465</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-06 20:39:05   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4K7rDHRS13B8dyGsCxltqs</FromUserName>
+<CreateTime>1428323948</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-06 21:37:48   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetwLaa3Ko1QjI_gc8vtMikio</FromUserName>
+<CreateTime>1428327471</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-07 13:03:49   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset62VLsksaiEhgSYtGWzvnGI</FromUserName>
+<CreateTime>1428383035</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-07 13:04:26   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset3O1yos7AZVm7mc6UXB4Vz4</FromUserName>
+<CreateTime>1428383072</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-07 13:05:11   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset3O1yos7AZVm7mc6UXB4Vz4</FromUserName>
+<CreateTime>1428383117</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-04-07 13:05:17   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset3O1yos7AZVm7mc6UXB4Vz4</FromUserName>
+<CreateTime>1428383123</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/pifuTest.html</EventKey>
+</xml>
+2015-04-07 13:08:01   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset62VLsksaiEhgSYtGWzvnGI</FromUserName>
+<CreateTime>1428383287</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-07 16:58:32   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset1AETDevCHbnoVbEX7jkmFc</FromUserName>
+<CreateTime>1428397118</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-07 19:28:03   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2vAmNIc9h3nyKbRNjOdfxg</FromUserName>
+<CreateTime>1428406090</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-07 19:28:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2vAmNIc9h3nyKbRNjOdfxg</FromUserName>
+<CreateTime>1428406096</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-07 19:28:33   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2vAmNIc9h3nyKbRNjOdfxg</FromUserName>
+<CreateTime>1428406121</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/stars.html</EventKey>
+</xml>
+2015-04-07 19:28:39   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2vAmNIc9h3nyKbRNjOdfxg</FromUserName>
+<CreateTime>1428406126</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/classIndex.html</EventKey>
+</xml>
+2015-04-07 21:12:34   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6rcGdK_5SaNtdcUcXXbjuw</FromUserName>
+<CreateTime>1428412362</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-08 07:45:12   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset25p8-1F-cSNz1kIQ1jH9K8</FromUserName>
+<CreateTime>1428450321</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-08 08:13:07   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyREFgvk65OnhcpR_Swy0No</FromUserName>
+<CreateTime>1428451997</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-08 10:42:59   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetycpQEhIO7xLpKLLsXdZegs</FromUserName>
+<CreateTime>1428460989</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/classIndex.html</EventKey>
+</xml>
+2015-04-09 09:49:05   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetycpQEhIO7xLpKLLsXdZegs</FromUserName>
+<CreateTime>1428544159</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>customer_service</EventKey>
+</xml>
+2015-04-09 09:49:12   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetycpQEhIO7xLpKLLsXdZegs</FromUserName>
+<CreateTime>1428544167</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-09 09:49:27   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetycpQEhIO7xLpKLLsXdZegs</FromUserName>
+<CreateTime>1428544182</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-09 09:49:53   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2kfd_pExUEwpjFyvf9Bix0</FromUserName>
+<CreateTime>1428544207</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-09 09:50:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetycpQEhIO7xLpKLLsXdZegs</FromUserName>
+<CreateTime>1428544223</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-09 09:50:09   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset253THi2iiwSOuJSI0oljUc</FromUserName>
+<CreateTime>1428544223</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-09 13:42:13   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6HGe8LjPwIrdH0V7K6zEKo</FromUserName>
+<CreateTime>1428558148</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-09 13:42:55   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6HGe8LjPwIrdH0V7K6zEKo</FromUserName>
+<CreateTime>1428558190</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>free_use</EventKey>
+</xml>
+2015-04-09 13:43:08   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6HGe8LjPwIrdH0V7K6zEKo</FromUserName>
+<CreateTime>1428558203</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-09 13:49:08   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6HGe8LjPwIrdH0V7K6zEKo</FromUserName>
+<CreateTime>1428558563</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-04-09 21:20:23   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyREFgvk65OnhcpR_Swy0No</FromUserName>
+<CreateTime>1428585639</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/queryAgent.html</EventKey>
+</xml>
+2015-04-09 22:42:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset4w9qn8EZANDScuM9CN4O_g</FromUserName>
+<CreateTime>1428590565</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-10 09:50:35   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetyjRV9HiJsEGbZEC_Bqc1Z8</FromUserName>
+<CreateTime>1428630654</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-04-10 10:38:26   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2kfd_pExUEwpjFyvf9Bix0</FromUserName>
+<CreateTime>1428633525</CreateTime>
+<MsgType>event</MsgType>
+<Event>VIEW</Event>
+<EventKey>http://www.selisse.com.cn/Selisse/weixin/html/xuanchuan.html</EventKey>
+</xml>
+2015-04-10 16:26:29   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset1xuiTihybB_E4nzA6aPY1w</FromUserName>
+<CreateTime>1428654410</CreateTime>
+<MsgType>event</MsgType>
+<Event>unsubscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-10 16:29:35   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset62VLsksaiEhgSYtGWzvnGI</FromUserName>
+<CreateTime>1428654595</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-10 16:30:42   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset62VLsksaiEhgSYtGWzvnGI</FromUserName>
+<CreateTime>1428654662</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
+2015-04-10 17:08:35   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPusetwNJ0iFQwgGwdKAS1QWaFbk</FromUserName>
+<CreateTime>1428656935</CreateTime>
+<MsgType>event</MsgType>
+<Event>subscribe</Event>
+<EventKey></EventKey>
+</xml>
+2015-04-10 17:09:23   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset6HGe8LjPwIrdH0V7K6zEKo</FromUserName>
+<CreateTime>1428656984</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>day_sign</EventKey>
+</xml>
+2015-04-10 17:11:01   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset2q3MwSQaflP9EiFLJxqZsc</FromUserName>
+<CreateTime>1428657081</CreateTime>
+<MsgType>event</MsgType>
+<Event>MASSSENDJOBFINISH</Event>
+<MsgID>203984079</MsgID>
+<Status>send success</Status>
+<TotalCount>664</TotalCount>
+<FilterCount>664</FilterCount>
+<SentCount>664</SentCount>
+<ErrorCount>0</ErrorCount>
+</xml>
+2015-04-10 17:12:14   提交参数：<xml><ToUserName>gh_7d239c4e1e14</ToUserName>
+<FromUserName>oPuset3O1yos7AZVm7mc6UXB4Vz4</FromUserName>
+<CreateTime>1428657154</CreateTime>
+<MsgType>event</MsgType>
+<Event>CLICK</Event>
+<EventKey>query_true</EventKey>
+</xml>
