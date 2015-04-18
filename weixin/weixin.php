@@ -78,14 +78,33 @@ class wechatCallbackapiTest
                             $content="尊敬的贵宾您好！您有任何关于诗轩的问题，专业微客服都会尽快给到您周全详尽的答复。诗轩微客服随时恭候您的咨询。\r\n\r\n请直接回复您的问题或关键词，微客服会尽快给您答复，谢谢！";
                             break;
                             case "query_balance" :
-                                $openID = $fromUsername;
-                                // 查看服务器上此用户的余额
-                                $url = "http://www.selisse.com.cn/Selisse/getBalance?openID=".$openID;
-                                $balance = file_get_contents($url);
-                                $content="您的账户余额是：".$balance."元";
+                                // 先判断是否已经绑定过
+                                $isbindURL = "http://www.selisse.com.cn/Selisse/isBindAgent?openID=".$fromUsername;
+                                $isBind = file_get_contents($isbindURL);
+                                if($isBind == "1"){
+                                    $openID = $fromUsername;
+                                    // 查看服务器上此用户的余额
+                                    $url = "http://www.selisse.com.cn/Selisse/getBalance?openID=".$openID;
+                                    $balance = file_get_contents($url);
+                                    $content="您的账户余额是：".$balance."元";
+                                }else{
+                                    $content="您还没有绑定会员，请先绑定！";
+                                }                                
                             break;
                             case "user_bind" : 
-                                $content="回复BD加微信号绑定，如：BDzmcnxd";
+                                // 先判断是否已经绑定过
+                                $isbindURL = "http://www.selisse.com.cn/Selisse/isBindAgent?openID=".$fromUsername;
+                                $isBind = file_get_contents($isbindURL);
+                                if($isBind == "1"){
+                                    $content = "您已经绑定过了！";
+                                }
+                                else{
+                                    $content="回复BD加微信号绑定，如：BDzmcnxd";
+                                }
+                                
+                            break;
+                            case "charge_balance" :
+                                $content="在线充值功能暂未开放，请先联系诗轩小秘书在官网充值！";
                             break;
                             default :
                             $content="正在鞭打程序员，努力开发中！";

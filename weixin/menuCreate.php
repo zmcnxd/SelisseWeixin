@@ -90,13 +90,18 @@ $data='{
                 },
                 {
                     "type": "click", 
-                    "name": "每日签到", 
-                    "key": "day_sign"
+                    "name": "查询余额", 
+                    "key": "query_balance"
                 },
                 {
                     "type": "click", 
-                    "name": "免费试用", 
-                    "key": "free_use"
+                    "name": "账户充值", 
+                    "key": "charge_balance"
+                },
+                {
+                    "type": "view", 
+                    "name": "在线下单", 
+                    "url": "http://www.selisse.com.cn/Selisse/weixin/html/onlineBuy.html"
                 },
                 {
                     "type": "view", 

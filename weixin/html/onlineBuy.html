@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="../css/main.css">
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/main.js"></script>
+<title>诗轩（SELISSE）在线下单</title>
+<meta name="description" content="SÉLISSE诗轩隶属法国SÉLISSE护肤中心，由法国著名的SILIA化妆品公司负责研发与监制。诗轩品牌在全球率先提出裸妆护肤理念（nude make-up skin care），倡导“清新、自然、时尚”的护肤体验，旨在为爱美女性提供更亲肤、更高效、更持久的裸妆护肤产品，充分感受“裸妆护肤、完美出镜”的非凡理念。">
+<meta name="keywords" content="诗轩、SELISSE、诗轩面膜、裸妆护肤、裸妆面膜、诗轩新闻、诗轩公告">
+</head>
+<body>
+<style>
+	
+</style>
+<div class="mainContainer">
+	<div id="product-container" class="product-container">
+		<h3>正装</h3>
+	</div>
+<script type="text/javascript">
+	$(function(){
+		// 产品订购数量对象
+		var proBuy = {};
+		var productContainer = null;
+		// 获取所有正装产品
+		$.ajax({
+			url : Server.addr + "getProduct",
+			dataType : "jsonp",
+			jsonp:"jsonpcallback",
+			success : function(data){
+				data.forEach(function(item){
+					if(item.type==1){
+						productContainer = $("#product-container");
+					}else if(item.type==2){
+						productContainer = $("#xiaoyang-container");
+					}else if(item.type==3){
+						productContainer = $("#wuliao-container");
+					}
+					var type = (localStorage.getItem("userType") == "a" ? "A" : "总");
+					var price = (type == "A" ? item.aPrice: item.zongPrice);
+					if(item.name.indexOf("套装") <=-1 && item.name.indexOf("系列") <= -1){
+						// 取消套装的下单
+						$("<div class='product'><div class='productImg'>"+
+								"<a href='productDetail.html?productID=" + item.ID +
+								"'><img src='/Selisse/" + item.imgSrc + "' /></a></div>"+
+								"<div class='productName'>" + item.name + "</div>"+
+								"<div class='price'>"+type+"代价："+price+"元</div>"+
+								"<div class='buy-amount'>订购数量：<span class='jian' onclick='jian(this)'>-</span><input oninput='OnInput (event)' onpropertychange='OnPropChanged (event)' data-price='"+price+"' data-productID='"+item.ID+"' type='text' value='0'/><span class='jia' onclick='jia(this,\""+price+"\",\""+item.ID+"\",\""+item.type+"\")'>+</span></div></div>").appendTo(productContainer);
+						proBuy[item.ID] = 0;
+					}
+				});
+			}
+		});
+	});
+</script>
+</div>
+</body>
+</html>
