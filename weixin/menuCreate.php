@@ -101,7 +101,7 @@ $data='{
                 {
                     "type": "view", 
                     "name": "在线下单", 
-                    "url": "http://www.selisse.com.cn/Selisse/weixin/html/onlineBuy.html"
+                    "url": "https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxc1434c835f9b9013&redirect_uri=http%3A%2F%2Fwww.selisse.com.cn%2FSelisse%2Fweixin%2Fhtml%2FonlineBuy.php&response_type=code&scope=snsapi_base&state=123#wechat_redirect"
                 },
                 {
                     "type": "view", 

@@ -11,14 +11,67 @@
 </head>
 <body>
 <style>
-	
+	.product-container{
+		font-size: 2em;
+	}
+	.product-container h3{
+		width: 100%;
+		padding: 10px 0;
+		text-align: center;
+		color: #fff;
+		background: #000;		
+	}
+	.product-container .product{
+		border: solid 1px #ececec;
+		border-radius: 3px;
+		moz-border-radius: 3px;
+		webkit-border-radius: 3px;
+		margin: 10px 10px;
+		padding: 10px;
+		clear: left;
+		overflow: hidden;
+	}
+	.product-container .product .productImg{
+		float: left;
+		margin-right: 30px;
+	}
+	.product-container .product .price{
+		margin: 10px 0;
+	}
+	.product-container .product .buy-amount input{
+		width: 100px;
+	}
+	.start-buy{
+		text-align: center;
+		padding: 30px 0;
+	}
+	.start-buy a{
+		font-size: 2em;
+	}
 </style>
 <div class="mainContainer">
 	<div id="product-container" class="product-container">
-		<h3>正装</h3>
+		<h3>请选择正装产品</h3>
 	</div>
+	<div class="start-buy"><a class="ui-btn" id="start_buy" href="javascript:">结&nbsp;算</a></div>
 <script type="text/javascript">
 	$(function(){
+		// 获取网页授权code，用code换取openid
+		var code = getPara("code");
+		$.ajax({
+			url: "https://api.weixin.qq.com/sns/oauth2/access_token?appid="+Server.appID+"&secret="+Server.appSecret+"&code="+code+"&grant_type=authorization_code",
+			type: "post",
+			dataType: "json",
+			success: function(json){
+				alert(json.openid);
+			},
+			complete: function(xmlhttprequest,textStatus){
+				alert(textStatus);
+			},
+			error: function(XMLHttpRequest, textStatus, errorThrown){
+				alert(textStatus);
+			}
+		});
 		// 产品订购数量对象
 		var proBuy = {};
 		var productContainer = null;
@@ -42,7 +95,7 @@
 						// 取消套装的下单
 						$("<div class='product'><div class='productImg'>"+
 								"<a href='productDetail.html?productID=" + item.ID +
-								"'><img src='/Selisse/" + item.imgSrc + "' /></a></div>"+
+								"'><img src='" + Server.addr + item.imgSrc + "' /></a></div>"+
 								"<div class='productName'>" + item.name + "</div>"+
 								"<div class='price'>"+type+"代价："+price+"元</div>"+
 								"<div class='buy-amount'>订购数量：<span class='jian' onclick='jian(this)'>-</span><input oninput='OnInput (event)' onpropertychange='OnPropChanged (event)' data-price='"+price+"' data-productID='"+item.ID+"' type='text' value='0'/><span class='jia' onclick='jia(this,\""+price+"\",\""+item.ID+"\",\""+item.type+"\")'>+</span></div></div>").appendTo(productContainer);

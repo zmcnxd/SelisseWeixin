@@ -71,10 +71,13 @@ if (!Array.prototype.forEach) {
     };  
 }
 
-Server={};
+Server={
+    appID: "wxc1434c835f9b9013",
+    appSecret: "0547711fc5a2b521ea6feadc380e270d"
+};
 Server.addr = "";
 if(window.location.href.indexOf("selisse") <= -1){
-    Server.addr="http://localhost:8080/Selisse/";
+    Server.addr="http://www.selisse.com.cn/Selisse/";//http://localhost:8080/Selisse/";
 }
 else{
     Server.addr="http://www.selisse.com.cn/Selisse/";
