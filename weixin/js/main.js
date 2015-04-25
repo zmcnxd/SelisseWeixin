@@ -82,3 +82,27 @@ if(window.location.href.indexOf("selisse") <= -1){
 else{
     Server.addr="http://www.selisse.com.cn/Selisse/";
 }
+
+// 公用方法
+Common = {
+        //更新余额
+        updateBalance: function(type,balance,agentID,successCallBack,failCallBack){
+            $.ajax({
+                url: Server.addr + "updateAgentInfo",
+                type: "post",
+                data: "agentID=" + agentID + "&value=" + balance + "&type=" + type,
+                success: function(json){
+                    if(json.result == "000000"){
+                        successCallBack();
+                    }else{
+                        failCallBack();
+                    }
+                }
+            });
+        },
+        // 数据库时间对象转化为字符串
+        timeToString: function(time){
+            var strtime = new Date(time);
+            return strtime.Format("yyyy-MM-dd hh:mm:ss");
+        }
+}
